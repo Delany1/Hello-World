@@ -1,0 +1,4 @@
+Opay
+Palmpay
+Vlc
+
